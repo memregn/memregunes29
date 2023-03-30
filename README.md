@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @memregunes29
+- 👋 Hi, I’m @memregn
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Java
 - 📫 emre.gunes@ug.bilkent.edu.tr
